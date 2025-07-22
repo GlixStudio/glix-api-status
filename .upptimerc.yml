@@ -23,5 +23,8 @@ status-website:
     - title: GitHub
       href: https://github.com/GlixStudio/glix-api-status
 
+  workflowSchedule:
+    uptime: "*/30 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
