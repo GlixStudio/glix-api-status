@@ -4,18 +4,20 @@
     "url": "https://dev.glix.studio",
     "icon": "https://icons.duckduckgo.com/ip3/dev.glix.studio.ico",
     "slug": "dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 537,
-    "timeWeek": 548,
-    "timeMonth": 573,
-    "timeYear": 573,
-    "dailyMinutesDown": {}
+    "time": 562,
+    "timeDay": 465,
+    "timeWeek": 514,
+    "timeMonth": 562,
+    "timeYear": 562,
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   },
   {
     "name": "Prod Api",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 724,
-    "timeWeek": 635,
+    "timeWeek": 633,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {}
