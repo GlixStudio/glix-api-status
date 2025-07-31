@@ -6,7 +6,7 @@ sites:
   - name: Dev Api
     url: https://dev.glix.studio
   - name: Prod Api
-    url: https://prod.api.glix.studio
+    url: https://api.glix.studio
 
 workflowSchedule:
     uptime: "*/30 * * * *"
