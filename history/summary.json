@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.glix.studio.ico",
     "slug": "dev-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 540,
-    "timeDay": 661,
-    "timeWeek": 492,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 545,
+    "timeDay": 662,
+    "timeWeek": 502,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-07-29": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 622,
-    "timeDay": 918,
-    "timeWeek": 681,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 611,
+    "timeDay": 407,
+    "timeWeek": 609,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-07-31": 18
     }
