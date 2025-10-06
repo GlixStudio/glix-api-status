@@ -1,5 +1,23 @@
 [
   {
+    "name": "GLIX Api",
+    "url": "https://api.glix.studio",
+    "icon": "https://icons.duckduckgo.com/ip3/api.glix.studio.ico",
+    "slug": "glix-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "GLIX Social Api",
     "url": "https://api-social.glix.studio",
     "icon": "https://icons.duckduckgo.com/ip3/api-social.glix.studio.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 225,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 313,
+    "timeDay": 258,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   }
 ]
