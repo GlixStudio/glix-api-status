@@ -22,17 +22,19 @@
     "url": "https://api-social.glix.studio",
     "icon": "https://icons.duckduckgo.com/ip3/api-social.glix.studio.ico",
     "slug": "glix-social-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 442,
-    "timeWeek": 399,
-    "timeMonth": 329,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 321,
+    "timeWeek": 374,
+    "timeMonth": 325,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
