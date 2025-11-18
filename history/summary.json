@@ -4,18 +4,20 @@
     "url": "https://api.glix.studio",
     "icon": "https://icons.duckduckgo.com/ip3/api.glix.studio.ico",
     "slug": "glix-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 356,
-    "timeWeek": 497,
-    "timeMonth": 417,
-    "timeYear": 422,
-    "dailyMinutesDown": {}
+    "time": 414,
+    "timeDay": 219,
+    "timeWeek": 446,
+    "timeMonth": 407,
+    "timeYear": 414,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "GLIX Social Api",
