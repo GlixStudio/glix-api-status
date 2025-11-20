@@ -6,15 +6,15 @@
     "slug": "glix-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "90.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.78%",
-    "time": 407,
-    "timeDay": 185,
-    "timeWeek": 403,
-    "timeMonth": 388,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 363,
+    "timeWeek": 396,
+    "timeMonth": 393,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -26,15 +26,15 @@
     "slug": "glix-social-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "89.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.78%",
-    "time": 326,
-    "timeDay": 305,
-    "timeWeek": 369,
-    "timeMonth": 325,
-    "timeYear": 326,
+    "time": 329,
+    "timeDay": 466,
+    "timeWeek": 362,
+    "timeMonth": 331,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
